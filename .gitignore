@@ -1,0 +1,7 @@
+node_modules
+dist/
+*.log
+.vscode
+src/key.ts
+src/index.tmp
+deploy/
